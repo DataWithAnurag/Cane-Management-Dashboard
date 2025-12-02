@@ -1,0 +1,76 @@
+#🌾 Cane Management ERP – Analytics & Power BI Dashboard
+
+Oracle SQL • Data Cleaning • ETL • Power BI • ERP Analytics
+
+This repository showcases my work as a Data Analyst at Petals Infotech, where I manage and analyze large-scale sugarcane procurement data for our client using an ERP Cane Management System integrated with Oracle Database.
+
+The project includes complete SQL data processing workflows, cleaned datasets, analytical logic, and an interactive Power BI Dashboard (shown below) used by management for daily decision-making.
+
+#🚀 Project Overview
+
+Cane Management ERP handles end-to-end procurement workflows:
+
+Grower registration
+
+Village mapping
+
+Cane purchase entries
+
+Vehicle mode classification
+
+Net weight calculation
+
+Payment processing
+
+Deduction & bonus calculations
+
+#My responsibility was to build a data analytics layer on top of the ERP using:
+
+✔ Oracle SQL for data filtering, cleaning & transformation
+✔ DAX & Power Query for modeling
+✔ Power BI for dashboards & performance monitoring
+
+#🛠️ Tech Stack
+Area	Tools Used
+Database	Oracle SQL, PL/SQL
+Data Modeling	Power Query, DAX
+Visualization	Power BI
+ETL Processes	SQL Scripts, Incremental Refresh
+Version Control	Git / GitHub
+
+#📊 Key Dashboard Features
+
+1. KPI Summary
+
+Total Net Weight (Q)
+
+Total Gross Value (₹)
+
+Total Payment After Deductions
+
+Total Land Acres
+
+2. District & Grower Insights
+
+Gross Value by District
+
+Top 5 Growers by Cane Crushed
+
+Tehsil & District-wise Map Visual
+
+3. Mode & Location Analysis
+
+Net Weight by Mode (Cart, Trolley, Truck)
+
+Net Weight by Location (Center vs Mill Gate)
+
+Cane Crushed by Transportation Code
+
+4. Monthly Trends
+
+Cane Crushed by Month
+
+Payment Value by Month
+
+
+Coordinated with client to understand business logic (center vs mill gate, mode codes, etc.).
